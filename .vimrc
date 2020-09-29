@@ -1,0 +1,10 @@
+syntax on
+set number
+set cursorline
+set ruler
+set shiftwidth=4
+set softtabstop=4
+set tabstop=4
+set autoindent
+set backspace=indent,eol,start
+set foldmethod=indent
